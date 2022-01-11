@@ -25,14 +25,14 @@ public class Jdbc2DDL {
        /*=======================================================================
 	     ORNEK1:isciler adinda bir tablo olusturunuz id int, birim VARCHAR(10), maas int
     	========================================================================*/
-       /*
+
         String sorgu = "CREATE TABLE isciler"
                 + " (id int primary key,"
                 + " birim VARCHAR(10),"
                 + " maas int)";
 
 
-        */
+
         //1.yöntem
 
         //    boolean s1=st.execute(sorgu);
