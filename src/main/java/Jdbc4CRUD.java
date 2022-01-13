@@ -81,6 +81,7 @@ public class Jdbc4CRUD {
         System.out.println("tablo silindi");
 
          */
+
         con.close();
         st.close();
 
